@@ -1,0 +1,12 @@
+packages:
+  "framer-motion": "For premium smooth scroll and reveal animations"
+  "react-hook-form": "For robust contact form state management"
+  "@hookform/resolvers": "For zod validation integration"
+  "zod": "For strict schema validation on the contact form"
+  "clsx": "For conditional class name joining"
+  "tailwind-merge": "For safely merging Tailwind classes"
+
+notes:
+  - All sections are combined into a single-page architecture with smooth scrolling
+  - Uses anchor tags (#) for navigation between sections
+  - Contact form is fully functional UI with a stubbed mutation hook for future API integration
